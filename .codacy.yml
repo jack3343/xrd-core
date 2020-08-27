@@ -1,0 +1,16 @@
+---
+exclude_paths:
+  - 'src/xrd/generated/*.py'
+  - 'src/xrd/protos/**'
+  - 'tests/data/**'
+  - 'tools/**'
+  - 'docs/**'
+  - 'versioneer.py'
+  - 'setup.py'
+  - 'src/xrd/_version.py'
+  - 'src/xrd/measure.py'
+  - 'start_xrd.py'
+engines:
+  duplication:
+    exclude_paths:
+      - 'tests/**'
