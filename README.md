@@ -145,7 +145,9 @@ You can run a full node in Windows utilizing the Windows Subsystem for Linux. Th
 
 ###### Links - Installing Ubuntu in Windows 10
 [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
+
 [Google Is Your Friend (install+ubuntu+in+windows+10)](https://www.google.com/search?hl=en&as_q=install+ubuntu+in+windows+10&as_epq=)
+
 [WSL Blog](https://blogs.msdn.microsoft.com/wsl/)
 
 
